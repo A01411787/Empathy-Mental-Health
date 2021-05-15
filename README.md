@@ -25,6 +25,9 @@ For a quick overview, check out [bdata.uw.edu/empathy](http://bdata.uw.edu/empat
 Our framework can be compiled on Python 3 environments. The modules used in our code can be installed using:
 ```
 $ pip install -r requirements.txt
+pip install https://download.pytorch.org/whl/cu101/torch-1.4.0-cp38-cp38-win_amd64.whl
+
+pip install https://download.pytorch.org/whl/cu101/torchvision-0.5.0-cp38-cp38-win_amd64.whl
 ```
 
 
